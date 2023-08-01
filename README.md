@@ -27,8 +27,8 @@ Adam: Converges faster than others like SGD.
 
 ## Accuracy/score  
 1. Using basic NN from scratch:
-   No. of epochs = 20
-   Loss: 1.30
+   No. of epochs = 20|
+   Loss: 1.30|
    F1-score: 0.33
 
 

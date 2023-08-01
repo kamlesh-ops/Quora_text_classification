@@ -1,4 +1,6 @@
-# Quora Insincere Questions Classification  
+# Quora Insincere Questions Classification   
+An approach to preprocess texts obtained from quora and classify them as sincere and insincere.  
+  
 Data Source: Kaggle  
 Link: [Dataset](https://www.kaggle.com/competitions/quora-insincere-questions-classification)
 

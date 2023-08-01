@@ -2,7 +2,8 @@
 An approach to preprocess texts obtained from quora and classify them as sincere and insincere.  
   
 Data Source: Kaggle  
-Link: [Dataset](https://www.kaggle.com/competitions/quora-insincere-questions-classification)
+Link: [Dataset](https://www.kaggle.com/competitions/quora-insincere-questions-classification)  
+My Submission on kaggle: [](https://www.kaggle.com/code/kamleshsahoo730/quora-nlp#Quora-Insincere-Questions-Classification)  
 
 ## About Dataset  
 The dataset comprises texts from different types of questions asked on Quora. There are about 1 million examples of sincere texts and about 80K for insincere ones.     

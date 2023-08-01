@@ -25,6 +25,12 @@ Binary Cross-Entropy: They are suitable for the f1 metric as they align well(whe
 ## Optimizer  
 Adam: Converges faster than others like SGD.
 
+## Accuracy/score  
+1. Using basic NN from scratch:
+   No. of epochs = 20
+   Loss: 1.30
+   F1-score: 0.33
+
 
 
 

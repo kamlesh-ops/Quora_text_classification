@@ -20,6 +20,7 @@ sci-kit learn
 
 ## Training  
 1. To speed up training, GPU was used.
+2. Used train_test_split to split the dataset into 75% training and 25% validation data.
 
 ## Loss  
 Binary Cross-Entropy: They are suitable for the f1 metric as they align well(when binary loss decrease, the f1 score does not change much).  
